@@ -1,2 +1,3 @@
-# hindi-chatbot
-Customer support chatbot in hindi language
+# Customer Support Chatbot in Hindi Language
+
+To use the bot, please open bot.ipynb and run all cells.
